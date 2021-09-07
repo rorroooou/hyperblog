@@ -2,4 +2,9 @@ mi nombre es rodrigo
 mi segundo nombre es andrés
 mi apellido paterno es penchulef
 vivo en Labranza, Temuco.
+<<<<<<< HEAD
 aún vivo con mis padres lamentablemente
+=======
+Estoy estudiando desarrollo web en platzi
+de a poco voy aprendiendo.
+>>>>>>> cabecera
